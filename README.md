@@ -46,7 +46,7 @@ A top-down 3D stealth game built around a custom enemy AI system.
 - **Player controller** — Rigidbody-based movement with Cinemachine third-person camera
 - **Editor tooling** — custom Unity Editor scripts for level layout and AI waypoint placement
 
-[View Repository →](#) · [Play Demo →](#)
+[View Repository →](#)
 
 ---
 
@@ -74,7 +74,7 @@ Contributed to Unity 3D projects in a studio environment. Gained experience with
 
 ## GitHub Stats
 
-![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idzuo32&show_icons=true&theme=dark)
 
 ---
 
