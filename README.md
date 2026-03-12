@@ -22,7 +22,3 @@
 **Hide & Seek 3D** — stealth game with a full enemy AI state machine (Idle / Patrol / Chase / Investigate / Search), NavMesh pathfinding, and FOV-based detection
 
 **Endless Runner** — procedurally generated 3D runner with object pooling and event-driven architecture
-
----
-
-→ See the full picture at **[markostankovic.org](https://markostankovic.org)**
