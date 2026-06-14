@@ -20,7 +20,7 @@
 
 ### What I'm building
 
-**Survival3D / Island Haven** — first-person survival game, solo and fully documented (ADRs + EditMode tests). Save, survival-needs, and gathering/inventory systems behind clean interfaces; migrating Unity 6 → Unreal Engine 5.
+**Survival3D / Island Haven** — first-person survival game, built with a small team and fully documented (ADRs + EditMode tests). Save, survival-needs, and gathering/inventory systems behind clean interfaces; migrating Unity 6 → Unreal Engine 5.
 
 **[DeployLog](https://deploylog.dev)** — changelog / release-notes platform for dev teams. Full-stack SaaS built end-to-end: Next.js dashboard, embeddable widget, npm CLI with AI-generated release notes, and a GitHub Action. Launching.
 
