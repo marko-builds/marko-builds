@@ -2,11 +2,11 @@
 
 ### I think in systems first and reach for the engine second.
 
-**Generalist Technical Artist · Gameplay Programmer — Unity · Unreal Engine 5 · C#**
+**Technical Artist · Tools & Pipeline · Gameplay Programmer · Unity · Unreal Engine 5 · C# · Python**
 
 [markostankovic.org](https://markostankovic.org) · [LinkedIn](https://www.linkedin.com/in/markostankovic-gamedev/) · [contact@markostankovic.org](mailto:contact@markostankovic.org)
 
-🔍 Open to Generalist Technical Artist / game-dev roles — remote or EU
+🔍 Open to Generalist Technical Artist / game-dev roles · remote or EU
 
 ---
 
@@ -20,11 +20,13 @@
 
 ### What I'm building
 
-**Survival3D / Island Haven** — first-person survival game, built with a small team and fully documented (ADRs + EditMode tests). Save, survival-needs, and gathering/inventory systems behind clean interfaces; migrating Unity 6 → Unreal Engine 5.
+**Survival3D / Island Haven**: first-person survival game, built with a small team and fully documented (ADRs + EditMode tests). Save, survival-needs, and gathering/inventory systems behind clean interfaces; migrating Unity 6 to Unreal Engine 5.
 
-**[DeployLog](https://deploylog.dev)** — changelog / release-notes platform for dev teams. Full-stack SaaS built end-to-end: Next.js dashboard, embeddable widget, npm CLI with AI-generated release notes, and a GitHub Action. Launching.
+**[DeployLog](https://deploylog.dev)**: changelog / release-notes platform for dev teams. Full-stack SaaS built end-to-end: Next.js dashboard, embeddable widget, npm CLI with AI-generated release notes, and a GitHub Action. Launching.
 
-**Relic Rush** — 3D endless runner (graded final project): object pooling, event-driven architecture, procedural generation.
+**[TicTacToe](https://marko-builds.itch.io/tictactoe)**: shipped Unity game with a data-driven theme system. One ScriptableObject per theme across five segregated interfaces, so a new theme is zero new code. [Breakdown](https://markostankovic.org/devlog/tictactoe-theme-system).
+
+**Relic Rush**: 3D endless runner (graded final project): object pooling, event-driven architecture, procedural generation.
 
 ---
 
