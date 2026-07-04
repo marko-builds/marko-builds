@@ -31,8 +31,6 @@ Solo developer. I ship small software with an AI-heavy workflow.
 
 Before building software products, I spent three years on game systems in Unity and Unreal (BSc Game Development, ex-Replai): save, survival, and inventory systems behind clean interfaces, documented with ADRs and tests.
 
-**[TicTacToe](https://marko-builds.itch.io/tictactoe)**: shipped Unity game with a data-driven theme system. One ScriptableObject per theme across five interfaces, so a new theme is zero new code.
-
 ---
 
 ### Toolbox
