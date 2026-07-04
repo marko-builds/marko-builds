@@ -1,8 +1,8 @@
 # Marko Stankovic
 
-### I build software products and ship them.
+### Developer building software products and ship them.
 
-Solo developer. I ship small software with an AI-heavy workflow.
+I ship small software with an AI-heavy workflow.
 
 [markostankovic.org](https://markostankovic.org) · [LinkedIn](https://www.linkedin.com/in/marko-builds/) · [contact@markostankovic.org](mailto:contact@markostankovic.org)
 
